@@ -1,6 +1,8 @@
 RENCANA-KONTEN-BASUKI
 
 - Javascript
+  * ES6
+  * Framework javascript
 - PHP frameworks
 - Interview
 - vlogs
