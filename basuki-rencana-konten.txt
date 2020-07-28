@@ -3,7 +3,9 @@ RENCANA-KONTEN-BASUKI
 - Javascript
   * ES6
   * Framework javascript
-- Struktur data dasar
+    ^ Angular
+    ^ React
 - PHP frameworks
+  ^ Laravel
 - Interview
 - vlogs
