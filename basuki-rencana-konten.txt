@@ -5,6 +5,7 @@ RENCANA-KONTEN-BASUKI
   * Framework javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur data dasar
 - PHP frameworks
   ^ Laravel
