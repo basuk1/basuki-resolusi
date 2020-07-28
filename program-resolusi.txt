@@ -1,0 +1,5 @@
+Hallo pak nama saya Basuki dari Bandung
+
+Resolusi saya 
+- Membuat website menggunakan framework javascript
+- Membuat data base warga Cijambe
